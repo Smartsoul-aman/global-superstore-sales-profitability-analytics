@@ -1,0 +1,2 @@
+# global-superstore-sales-profitability-analytics
+💰📊 Explore Global Superstore data with Python to uncover sales trends, profit performance, top sub-categories, regional patterns, and discount impact. Using Pandas, Matplotlib, and Seaborn, this project turns data into clear visual insights to support smarter pricing decisions &amp; identify business growth opportunities through actionable analytics.
